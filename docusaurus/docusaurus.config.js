@@ -123,7 +123,7 @@ const config = {
       "data-secondary-color": "#E5E8ED",
       "data-button-background-color": "#0061EB",
       "data-starting-message": "Hello! How can I help you today?",
-      "data-logo": "https://strapi.io/assets/strapi-logo-light.svg"
+      "data-logo": "https://delicate-dawn-ac25646e6d.media.strapiapp.com/Chats_Circle_3df902edc6.svg"
     },
   ],
   stylesheets: [
