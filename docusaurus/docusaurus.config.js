@@ -113,6 +113,18 @@ const config = {
       src: '/js/reset-announcement-banner.js',
       async: true,
     },
+    {
+      async: true,
+      src: "https://agent-448a20968735fab465a2-8rica.ondigitalocean.app/static/chatbot/widget.js",
+      "data-agent-id": "629c481f-fc28-11ef-bf8f-4e013e2ddde4",
+      "data-chatbot-id": "rxWX1ETVcxRCdGGNuPk2B9YUjUkdxSi0",
+      "data-name": "strapi-documentation Chatbot",
+      "data-primary-color": "#031B4E",
+      "data-secondary-color": "#E5E8ED",
+      "data-button-background-color": "#0061EB",
+      "data-starting-message": "Hello! How can I help you today?",
+      "data-logo": "/static/chatbot/icons/default-agent.svg"
+    },
   ],
   stylesheets: [
     {
