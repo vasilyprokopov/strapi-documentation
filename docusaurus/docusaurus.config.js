@@ -115,14 +115,14 @@ const config = {
     },
     {
       async: true,
-      src: "https://agent-448a20968735fab465a2-8rica.ondigitalocean.app/static/chatbot/widget.js",
-      "data-agent-id": "629c481f-fc28-11ef-bf8f-4e013e2ddde4",
-      "data-chatbot-id": "rxWX1ETVcxRCdGGNuPk2B9YUjUkdxSi0",
+      src: "https://agent-bbx6ljjr4rjg4abywuelolrj-piot4.ondigitalocean.app/static/chatbot/widget.js",
+      "data-agent-id": "2f7e9bcf-068b-11f0-bf8f-4e013e2ddde4",
+      "data-chatbot-id": "n4J2uM-SnG0G0jpblWBxzK4sV3IHxizh",
       "data-name": "Docs Assistant",
       "data-primary-color": "#F3E5FA",
       "data-secondary-color": "#E5E8ED",
       "data-button-background-color": "#0061EB",
-      "data-starting-message": "Hello! How can I help you today?",
+      "data-starting-message": "Hey! Glad to help with Strapi.",
       "data-logo": "https://delicate-dawn-ac25646e6d.media.strapiapp.com/Chats_Circle_3df902edc6.svg"
     },
   ],
