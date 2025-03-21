@@ -113,6 +113,18 @@ const config = {
       src: '/js/reset-announcement-banner.js',
       async: true,
     },
+    {
+      async: true,
+      src: "https://agent-448a20968735fab465a2-8rica.ondigitalocean.app/static/chatbot/widget.js",
+      "data-agent-id": "629c481f-fc28-11ef-bf8f-4e013e2ddde4",
+      "data-chatbot-id": "rxWX1ETVcxRCdGGNuPk2B9YUjUkdxSi0",
+      "data-name": "Docs Assistant",
+      "data-primary-color": "#F3E5FA",
+      "data-secondary-color": "#E5E8ED",
+      "data-button-background-color": "#0061EB",
+      "data-starting-message": "Hello! How can I help you today?",
+      "data-logo": "https://delicate-dawn-ac25646e6d.media.strapiapp.com/Chats_Circle_3df902edc6.svg"
+    },
   ],
   stylesheets: [
     {
